@@ -80,12 +80,13 @@ justify-content: space-between;
     align-items: center;
 }
 .forget label input{
-    margin-right: 3px;
+    margin-right: 10px;
 }
 .forget a{
     color: #fff;
     text-decoration: none;
     font-weight: 600;
+    margin-left: 10px;
 }
 .forget a:hover{
     text-decoration: underline;
